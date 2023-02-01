@@ -3,7 +3,7 @@
   <img src="public/favicon.ico" alt="archery target with arrow" title="archery target">
   </div>
 
-# Your own mandalart
+# Your own Mandalart
 Set your goals for the year using mandalart!
 
 > Mandal-art is a word that combines'Manda+la' ('to achieve the goal') + 'art' ('art of achieving the goal'), created by Hiroaki Imaizumi, a Japanese designer and popularized by baseball player Shohei Ohtani who attributes his success to creating his own mandalart. 

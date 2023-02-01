@@ -9,12 +9,13 @@ const FooterWrapper = styled.div`
   .madeby {
     padding: 0.5rem 0.8rem;
     margin: 0 0.2rem;
-    font-weight: 200;
+    font-weight: 300;
     font-size: 0.8rem;
-    color: var(--gray);
+    color: var(--black);
+    opacity: 0.8;
 
     &:hover {
-      opacity: 0.8;
+      opacity: 0.5;
     }
 
     & > span {
