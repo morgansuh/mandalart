@@ -41,8 +41,8 @@ function App() {
         </Modal>
       </Portal>
       <Description onClickExample={openModal}/>
-      <div className='App' id='capture'>
-
+      <div className='App'>
+      <div id='capture'>
         <Slider>
           <div className='tables first-row'>
             <Table tableKey='1' addMainInput={addMainInput} centerInput={mainInput[0]} />
@@ -62,6 +62,8 @@ function App() {
             <Table tableKey='8' addMainInput={addMainInput} centerInput={mainInput[7]} />
           </div>
         </Slider>
+        <br/>
+      </div>
         <Nav onClickExample={openModal} name={name} />
         <Footer />
       </div>
